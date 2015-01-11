@@ -1,0 +1,34 @@
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.exe
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.pdb
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\obj\Release\ResolveAssemblyReference.cache
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Form1.resources
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Properties.Resources.resources
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.csproj.GenerateResource.Cache
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.exe
+C:\EQEmu stuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.pdb
+C:\Deving-crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.exe
+C:\Deving-crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.pdb
+C:\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.exe
+C:\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.pdb
+C:\Deving crap\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.exe
+C:\Deving crap\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.pdb
+C:\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.csprojResolveAssemblyReference.cache
+C:\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Form1.resources
+C:\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Properties.Resources.resources
+C:\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.csproj.GenerateResource.Cache
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.exe
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.pdb
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.exe
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.pdb
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.csprojResolveAssemblyReference.cache
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Form1.resources
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Properties.Resources.resources
+D:\LAPTOP\Deving crap\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.csproj.GenerateResource.Cache
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.exe
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\bin\Release\EQEmuGUI.pdb
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.csprojResolveAssemblyReference.cache
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Form1.resources
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.Properties.Resources.resources
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.csproj.GenerateResource.Cache
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.exe
+I:\BACKUPS\EQStuff\EQEmuGUI\EQEmuGUI\obj\Release\EQEmuGUI.pdb
